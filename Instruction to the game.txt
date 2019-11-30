@@ -1,0 +1,10 @@
+Left Arrow / D 	    	:	Moves Ship Left
+Right Arrow / A	    	:	Moves Ship Right
+Up Arrow / Space	:	Fires Beam
+
+GameOver if the Spaceship collides with Alien ship or if Alien Ship Escapes(Exits the Frame)
+The palyer has 5 lives in the start and more lives will be added as the game moves on.
+The aliens drop bombs and if the player is hit he loses a life. If the life becomes 0 it is GAMEOVER.
+
+
+CLICK ON THE ALIEN ATTACK FILE TO PLAY
